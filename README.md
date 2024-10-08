@@ -29,3 +29,7 @@ https://devuploads.com/nf3duutq31b6
 
 https://devuploads.com/bqc8p07k2vvf
 
+# Firmware
+
+https://devuploads.com/4k6t4daesvts
+
