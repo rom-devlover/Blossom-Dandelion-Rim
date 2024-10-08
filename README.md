@@ -20,3 +20,7 @@ Telegram channel : https://t.me/dandilionrom
 1. Extract the Zip File 🗃️
 2. And
 3. Follow the Flashing Instructions
+
+# Download Link 🔗
+
+https://devuploads.com/nf3duutq31b6
