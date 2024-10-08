@@ -24,3 +24,8 @@ Telegram channel : https://t.me/dandilionrom
 # Download Link 🔗
 
 https://devuploads.com/nf3duutq31b6
+
+# Gapps
+
+https://devuploads.com/bqc8p07k2vvf
+
