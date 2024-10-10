@@ -27,7 +27,7 @@ https://devuploads.com/nf3duutq31b6
 
 # Gapps
 
-https://devuploads.com/bqc8p07k2vvf
+https://hyp.sh/SXIAi
 
 # Firmware
 
