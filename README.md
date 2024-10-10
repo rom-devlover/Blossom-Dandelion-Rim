@@ -1,7 +1,7 @@
 # Blossom-Dandelion-Rom
 
-Rom name : Voltage os ⚡.  
-supported Device : Blossom
+Rom name : Voltage os ⚡     
+supported Device : Blossom     
 Telegram channel : https://t.me/dandilionrom
  # Suppoted Devices
  1. Redmi 9A
