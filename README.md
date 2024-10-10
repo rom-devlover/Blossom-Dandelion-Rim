@@ -1,6 +1,6 @@
 # Blossom-Dandelion-Rom
 
-Rom name : Voltage os ⚡ 
+Rom name : Voltage os ⚡.  
 supported Device : Blossom
 Telegram channel : https://t.me/dandilionrom
  # Suppoted Devices
